@@ -1,63 +1,73 @@
-# 📖 1st Teachings — SG Class Teachings
+# 📖 1st Teachings — SG Class
 
-**SG Class Teachings** is a spiritual growth guide about receiving and walking with the Holy Spirit. Initiated June 29, 2025.
+**Spiritual Growth & Spiritual Science**
 
-## About
+> "Wait for the Lord to help you! Be strong and brave. Yes, wait for the Lord to help you!" — Psalm 27:14 (EASY)
 
-This book contains teachings designed to prepare a person to receive the Holy Spirit through structured disciplines:
+## 🌐 GitHub Pages
 
-- **Daily Schedule** — Building a disciplined daily routine
-- **Thoughts** — Controlling and purifying your thinking
-- **Needs** — Learning to pray and ask God with faith
-- **Abilities** — Discovering your unique spiritual gifts
-- **Tests** — Understanding and overcoming life's challenges
-- **Days** — Organizing time through special days and calendars
-- **Goals** — Setting and pursuing meaningful goals
-- **Court** — Self-governance through spiritual discipline
-- **Personal Duties** — Maintaining health and responsibility
-- **Accounts** — Managing money with wisdom
-- **Life** — The complete picture of spiritual growth
-- **Spiritual Teachings** — Deep teachings from the Holy Spirit
+The book is published at:
+**[https://walusimbi-leon1.github.io/1st-teachings/](https://walusimbi-leon1.github.io/1st-teachings/)**
 
-## Structure
+- 📖 Read online
+- 📥 [Download PDF](https://walusimbi-leon1.github.io/1st-teachings/1st-teachings.pdf) — 160 KB, ready for any device
 
-```
-1st-teachings/
-├── book.md              # Full book in one file
-├── courses/             # Individual course files
-│   ├── 01-1st-course-introduction.md
-│   ├── 02-2nd-course.md
-│   ├── 03-3rd-course.md
-│   ├── ...              # All 8 courses of 1st Class
-│   ├── 09-2nd-class-teachings-middle-life.md
-│   └── ...              # 2nd Class courses
-├── LICENSE              # CC0 — Public Domain
-└── README.md            # This file
-```
+## 📖 About
 
-## Contents
+The SG Class Teachings (initiated June 29, 2025) are a complete spiritual growth guide about receiving and walking with the Holy Spirit. The book presents thirteen core files — a structured system of spiritual disciplines designed to prepare a person to draw near to God.
 
-### 1st Class: The Beginning (Initiated: July 1, 2025)
+## 📁 Repository Contents
 
-| # | Course | Topics |
-|---|--------|--------|
-| 1 | Introduction | Holy Spirit, Requirements |
-| 2 | Daily Life | Daily Schedule, Thoughts |
-| 3 | Prayer & Gifts | Needs, Abilities |
-| 4 | Humanity | Tests, Days |
-| 5 | Behavior | Goals, Court, Personal Duties |
-| 6 | Money | Accounts, Accounts Scale of Preference |
-| 7 | Spirit | Life, Spiritual Teachings |
-| 8 | Conclusion | Summary of all files |
+| File | Description |
+|------|-------------|
+| `book.md` | The complete book text (102 KB, fully edited and expanded) |
+| `1st-teachings.pdf` | PDF version for offline reading |
+| `index.html` | GitHub Pages website |
+| `courses/` | Individual course files (archival) |
+| `LICENSE` | CC0 1.0 Universal (Public Domain) |
 
-### 2nd Class: Middle Life (Initiated: September 15, 2025)
+## 📚 The Thirteen Files
 
-Deeper study into each file with calculations, formulas, and practical application.
+| # | File | Purpose |
+|---|------|---------|
+| 1 | 📋 Daily Schedule | Daily routine & discipline |
+| 2 | 💭 Thoughts | Purifying your mind |
+| 3 | 🙏 Needs | Prayer & asking God |
+| 4 | ⚡ Abilities | Spiritual gifts & skills |
+| 5 | 🔬 Tests | Understanding life's challenges |
+| 6 | 📅 Days | Time, calendars & special days |
+| 7 | 🎯 Goals | Purpose & achievement |
+| 8 | ⚖️ Court | Self-governance & discipline |
+| 9 | 🧹 Personal Duties | Health & responsibility |
+| 10 | 💰 Accounts | Money management |
+| 11 | 📊 ASP | Scale of preference & wealth |
+| 12 | 🌿 Life | Fruits, Gifts & the Spirit |
+| 13 | 📜 Teachings | Words from the Holy Spirit |
+
+## 📥 Download PDF
+
+- **[Direct PDF download](https://walusimbi-leon1.github.io/1st-teachings/1st-teachings.pdf)**
+- Or from this repo: [`1st-teachings.pdf`](./1st-teachings.pdf)
+
+## 🏗️ Structure
+
+### 1st Class: The Beginning (Initiated July 1, 2025)
+
+| Course | Topics |
+|--------|--------|
+| Introduction | Holy Spirit, Requirements |
+| Daily Life | Daily Schedule, Thoughts |
+| Prayer & Gifts | Needs, Abilities |
+| Humanity | Tests, Days |
+| Behavior | Goals, Court, Personal Duties |
+| Money | Accounts, Accounts Scale of Preference |
+| Spirit | Life, Spiritual Teachings |
+| Conclusion | Summary of all files |
+
+### 2nd Class: Middle Life (Initiated September 15, 2025)
+
+Deeper study into each file with calculations, formulas, practical application, and mathematical tracking systems.
 
 ## License
 
 This work is dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
-
----
-
-*"Wait for the Lord to help you! Be strong and brave. Yes, wait for the Lord to help you!"* — Psalm 27:14 (EASY)
